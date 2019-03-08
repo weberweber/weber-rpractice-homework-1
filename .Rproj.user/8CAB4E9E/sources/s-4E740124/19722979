@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552031842044.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1427571976",
+    "id" : "19722979",
+    "lastKnownWriteTime" : 1552032146,
+    "last_content_update" : 1552032146933,
+    "path" : "~/GitHub/weber-rpractice-homework-1/2019-0308.Rmd",
+    "project_path" : "2019-0308.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "1,18",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
